@@ -1,0 +1,4 @@
+﻿  isPal.cpp
+c:\users\dakot\documents\coding\cplusplus\ispal\ispal\ispal\ispal.cpp(52): warning C4715: 'checkIfPal': not all control paths return a value
+c:\users\dakot\documents\coding\cplusplus\ispal\ispal\ispal\ispal.cpp(78): warning C4715: 'isPal': not all control paths return a value
+  isPal.vcxproj -> C:\Users\dakot\Documents\Coding\CPlusPlus\isPal\isPal\Debug\isPal.exe

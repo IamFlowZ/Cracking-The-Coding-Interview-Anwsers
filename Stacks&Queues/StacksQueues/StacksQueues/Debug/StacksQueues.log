@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+  StacksQueues.cpp
+  Generating Code...
+c:\users\dakot\documents\coding\cplusplus\stacks&queues\stacksqueues\stacksqueues\stack.cpp(60): warning C4715: 'Stack::peek': not all control paths return a value
+  StacksQueues.vcxproj -> C:\Users\dakot\Documents\Coding\CPlusPlus\Stacks&Queues\StacksQueues\Debug\StacksQueues.exe

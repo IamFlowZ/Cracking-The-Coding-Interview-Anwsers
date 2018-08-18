@@ -1,0 +1,4 @@
+﻿  OneAway.cpp
+c:\users\dakot\documents\coding\cplusplus\oneaway\oneaway\oneaway\oneaway.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\dakot\documents\coding\cplusplus\oneaway\oneaway\oneaway\oneaway.cpp(68): warning C4715: 'oneAway': not all control paths return a value
+  OneAway.vcxproj -> C:\Users\dakot\Documents\Coding\CPlusPlus\OneAway\OneAway\Debug\OneAway.exe
